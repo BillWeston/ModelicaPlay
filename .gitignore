@@ -1,0 +1,22 @@
+# gitignore file for CyTransmission
+# ignore the mat data outputs from Dymola
+*.mat
+
+# ignore all the simulation stuff... this should be mostly output data?
+simulations/
+
+# ignore emacs detritus
+*~
+
+# ignore text files
+*.txt
+
+*.c
+
+*.exe
+
+*.lib
+
+*.exp
+
+
